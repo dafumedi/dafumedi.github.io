@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dafumedi.github.io/sitemap/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/Bec/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/Zmb/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/vqh/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/uhR/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/NVJ/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/YQs/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/iAt/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/iKV/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/iBD/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/BdV/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/dqk/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/tHM/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/wSI/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/yeZ/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/tXu/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/LVZ/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/jTr/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/TbV/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/Dbl/sitemap_index.dafumedi
+Sitemap: https://dafumedi.github.io/MSb/sitemap_index.dafumedi
